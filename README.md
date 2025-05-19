@@ -1,12 +1,13 @@
-# React + Vite
+Friends Status App
+A simple React application for managing a list of friends.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Add friends to the list with their name, age, student status, university, program, and GPA
+Remove friends from the list
+View the list of friends
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Usage
+Open the application in your web browser: http://
+Fill in the form fields to add a new friend
+Click the "Add" button to add the friend to the list
+Click on a friend's name to remove them from the list
